@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ReceipeMaker", "ReceipeMaker\ReceipeMaker.fsproj", "{236CE90F-CE8A-48BA-AEF5-0EB5913658EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceipeMaker.Data", "ReceipeMaker.Data\ReceipeMaker.Data.csproj", "{57522387-852A-49B7-BF02-A1E871D6D1B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236CE90F-CE8A-48BA-AEF5-0EB5913658EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236CE90F-CE8A-48BA-AEF5-0EB5913658EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236CE90F-CE8A-48BA-AEF5-0EB5913658EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236CE90F-CE8A-48BA-AEF5-0EB5913658EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57522387-852A-49B7-BF02-A1E871D6D1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57522387-852A-49B7-BF02-A1E871D6D1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57522387-852A-49B7-BF02-A1E871D6D1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57522387-852A-49B7-BF02-A1E871D6D1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0F1BDB-8B8C-4EF2-BD8D-E09B23E6B296}
+	EndGlobalSection
+EndGlobal
