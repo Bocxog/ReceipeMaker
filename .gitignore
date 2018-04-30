@@ -1,2 +1,5 @@
 obj
 /ReceipeMaker_src/.vs
+/ReceipeMaker_src/Receipe.Data/bin
+/ReceipeMaker_src/packages
+/ReceipeMaker_src/ReceipeMaker/bin

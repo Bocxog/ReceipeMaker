@@ -1,0 +1,7 @@
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools.DotNet
+Microsoft.EntityFrameworkCore.Design
+Npgsql.EntityFrameworkCore.PostgreSQL
+Npgsql.EntityFrameworkCore.PostgreSQL.Design
+Microsoft.Extensions.Configuration.FileExtensions
+Microsoft.Extensions.Configuration.Json

@@ -1,0 +1,8 @@
+source https://www.nuget.org/api/v2
+nuget Microsoft.EntityFrameworkCore
+nuget Microsoft.EntityFrameworkCore.Design
+nuget Microsoft.EntityFrameworkCore.Tools.DotNet 2.0.2
+nuget Microsoft.Extensions.Configuration.FileExtensions
+nuget Microsoft.Extensions.Configuration.Json
+nuget Npgsql.EntityFrameworkCore.PostgreSQL
+nuget Npgsql.EntityFrameworkCore.PostgreSQL.Design
